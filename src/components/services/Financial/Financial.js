@@ -8,9 +8,9 @@ const Financial = () => {
   return (
     <div>
       <div className="container">
-        <div className="service-banner">
-          <div className="service-banner-style">
-            <div className="service-banner-content">
+        <div className="common-banner">
+          <div className="common-banner-style">
+            <div className="common-banner-content">
               <h3 className="mb-3">Financial Eligibility Assessment</h3>
               <p className="mb-4">
                 With Simplii Financial, international students can access a

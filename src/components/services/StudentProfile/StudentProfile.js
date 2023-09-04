@@ -9,9 +9,9 @@ const StudentProfile = () => {
   return (
     <div>
       <div className="container">
-        <div className="service-banner">
-          <div className="service-banner-style">
-            <div className="service-banner-content">
+        <div className="common-banner">
+          <div className="common-banner-style">
+            <div className="common-banner-content">
               <h3 className="mb-3">Student Profile Analysis By Study Canada</h3>
               <p className="mb-4">
                 At Study-Canada, we don't just offer counseling for admission or

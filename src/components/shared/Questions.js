@@ -16,7 +16,6 @@ function CustomToggle({ children, eventKey }) {
         height: 50,
         width: 50,
         fontSize: 28,
-        // textAlign: "center",
         border: "none",
         fontWeight: "bold",
         borderRadius: 50,

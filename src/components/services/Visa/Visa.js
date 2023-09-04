@@ -11,9 +11,9 @@ const Visa = () => {
   return (
     <div>
       <div className="container">
-        <div className="service-banner">
-          <div className="service-banner-style">
-            <div className="service-banner-content">
+        <div className="common-banner">
+          <div className="common-banner-style">
+            <div className="common-banner-content">
               <h3 className="mb-3">
                 Student visa application assistance by Study Canada
               </h3>

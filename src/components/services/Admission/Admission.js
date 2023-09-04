@@ -61,9 +61,9 @@ const Admission = () => {
   return (
     <>
       <div className="container">
-        <div className="service-banner">
-          <div className="service-banner-style">
-            <div className="service-banner-content">
+        <div className="common-banner">
+          <div className="common-banner-style">
+            <div className="common-banner-content">
               <h3 className="mb-3">University Admission Support</h3>
               <p className="mb-4">
                 Study-Canada is a trusted consultancy firm with a demonstrated

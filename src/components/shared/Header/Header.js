@@ -1,8 +1,7 @@
 import React from "react";
 import "./Header.css";
 import { Link } from "react-router-dom";
-// import {IoMenuOutline} from 'react-icons/io5';
-import { Container, Nav, NavDropdown, Navbar } from "react-bootstrap";
+import { Nav, NavDropdown, Navbar } from "react-bootstrap";
 import email from "../../../images/Email.png";
 import fb from "../../../images/Facebook.png";
 import twitter from "../../../images/Twitter.png";

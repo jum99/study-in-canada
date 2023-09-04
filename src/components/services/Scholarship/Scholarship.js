@@ -34,9 +34,9 @@ const Scholarship = () => {
   return (
     <>
       <div className="container">
-        <div className="service-banner">
-          <div className="service-banner-style">
-            <div className="service-banner-content">
+        <div className="common-banner">
+          <div className="common-banner-style">
+            <div className="common-banner-content">
               <h3 className="mb-5">Scholarship and Financial Aid Support</h3>
 
               <button className="banner-btn">Contact Our Team</button>
