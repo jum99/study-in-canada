@@ -1,0 +1,128 @@
+.hbanner1 {
+  background-image: url("/src/images/hbanner1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-right: 15px;
+  border-radius: 10px;
+  width: 730px;
+  height: 410px;
+}
+.hbanner1-style {
+  background-color: rgba(0, 0, 0, 0.726);
+  border-radius: 10px;
+  color: white;
+  width: 730px;
+  height: 410px;
+}
+.content {
+  padding: 90px 30px;
+}
+.banner-btn {
+  padding: 8px 15px;
+  color: rgba(233, 29, 29, 1);
+  border-radius: 5px;
+  font-weight: 600;
+  border: none;
+}
+.hbanner1-img img {
+  /* width: 300px; */
+  height: 300px;
+  margin-top: 110px;
+}
+.hbanner2 {
+  background-image: url("/src/images/hbanner2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 360px;
+  height: 180px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
+.hbanner2-style {
+  /* background: linear-gradient(89.92deg, rgba(0, 25, 64, 0.9) 51.56%, rgba(0, 0, 0, 0) 99.93%); */
+  color: white;
+  width: 360px;
+  height: 180px;
+}
+.hbanner2-content {
+  padding: 130px 75px;
+}
+.hbanner2-content button {
+  padding: 8px 35px;
+  color: rgba(233, 29, 29, 1);
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 5px;
+  font-weight: 600;
+  border: none;
+}
+.hbanner3 {
+  background-image: url("/src/images/hbanner3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 360px;
+  height: 100px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+.hbanner3-style {
+  background-color: rgba(0, 0, 0, 0.726);
+  color: white;
+  width: 360px;
+  height: 100px;
+  border-radius: 10px;
+}
+.hbanner3-content {
+  padding: 40px 30px;
+  text-align: center;
+}
+.hbanner4 {
+  background-image: url("/src/images/hbanner3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 20%;
+  width: 360px;
+  height: 100px;
+  border-radius: 10px;
+}
+.hbanner4-style {
+  background-color: rgba(0, 0, 0, 0.726);
+  color: white;
+  width: 360px;
+  height: 100px;
+  border-radius: 10px;
+}
+.hbanner4-content {
+  padding: 40px 30px;
+  text-align: center;
+}
+
+/* media queries */
+
+@media (max-width: 768px) {
+  .home-banner {
+    flex-direction: column;
+  }
+  .hbanner1 {
+    width: 450px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+  .hbanner1-style {
+    width: 450px;
+  }
+  .content {
+    padding: 110px 15px;
+  }
+  .hbanner1-img img {
+    /* width: 300px; */
+    height: 200px;
+    margin-top: 210px;
+  }
+  .small-banners {
+    margin-left: 50px;
+  }
+}

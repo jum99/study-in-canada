@@ -1,0 +1,36 @@
+.search-input input {
+  width: 300px;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 30px;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+}
+.search-icon {
+  background-color: rgba(233, 29, 29, 1);
+  color: white;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: -40px;
+  margin-top: 8px;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .top-header {
+    flex-direction: column;
+  }
+  .top-header-2 {
+    flex-direction: column;
+  }
+  .search-input {
+    margin: 15px 0;
+  }
+  .common-btn-2 {
+    margin-bottom: 10px;
+  }
+}

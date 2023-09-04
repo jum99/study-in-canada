@@ -1,0 +1,16 @@
+.refer-card {
+  width: 360px;
+  height: 130px;
+  border: 1px solid rgba(170, 170, 170, 1);
+  padding: 20px;
+  margin-bottom: 18px;
+}
+.refer-date {
+  width: 110px;
+  height: 85px;
+  padding: 10px;
+  text-align: center;
+  background-color: rgba(14, 93, 165, 1);
+  color: white;
+  border-radius: 5px;
+}

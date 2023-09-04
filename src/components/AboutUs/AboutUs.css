@@ -1,0 +1,30 @@
+.about-banner {
+  background-image: url("/src/images/about-banner.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 70vh;
+  /* border-radius: 10px; */
+}
+.about-banner-style {
+  /* background: linear-gradient(89.92deg, rgba(0, 25, 64, 0.9) 51.56%, rgba(0, 0, 0, 0) 99.93%); */
+  background-color: rgba(0, 0, 0, 0.726);
+  color: white;
+  height: 70vh;
+  border-radius: 10px;
+}
+.about-banner-content {
+  padding: 150px 50px;
+}
+.about-card-icon {
+  background-color: rgba(233, 29, 29, 1);
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+@media (max-width: 768px) {
+  .leader-div {
+    flex-direction: column;
+  }
+}

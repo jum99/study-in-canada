@@ -1,0 +1,18 @@
+.service-banner {
+  background-image: url("/src/images/service-banner.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 70vh;
+  /* border-radius: 10px; */
+}
+.service-banner-style {
+  /* background: linear-gradient(89.92deg, rgba(0, 25, 64, 0.9) 51.56%, rgba(0, 0, 0, 0) 99.93%); */
+  background-color: rgba(0, 0, 0, 0.726);
+  color: white;
+  height: 70vh;
+  border-radius: 10px;
+}
+.service-banner-content {
+  padding: 150px 50px;
+}

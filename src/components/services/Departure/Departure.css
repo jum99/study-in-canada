@@ -1,0 +1,9 @@
+.departure-card {
+  width: 95%;
+  background-color: rgba(247, 247, 247, 1);
+  border-radius: 10px;
+  padding: 20px;
+}
+.departure-card h5 {
+  color: rgba(229, 0, 25, 1);
+}

@@ -1,0 +1,18 @@
+.scholarship-card {
+  width: 95%;
+  background-color: rgba(247, 247, 247, 1);
+  border-radius: 10px;
+  padding: 20px;
+}
+.scholarship-card h5 {
+  color: rgba(229, 0, 25, 1);
+}
+
+.scholarship-table td {
+  background-color: rgba(221, 221, 221, 1);
+  width: 200px;
+  border: 1px solid white;
+  padding: 10px;
+  text-align: center;
+  vertical-align: top;
+}

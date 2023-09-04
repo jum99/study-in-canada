@@ -1,0 +1,30 @@
+.queries input {
+  display: flex;
+  flex-direction: column;
+  width: 450px;
+  height: 65px;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: rgba(248, 248, 248, 1);
+  border-radius: 10px;
+  border: 1px solid rgba(170, 170, 170, 1);
+}
+.queries textarea {
+  padding: 10px;
+  margin-bottom: 20px;
+  width: 450px;
+  height: 155px;
+  background-color: rgba(248, 248, 248, 1);
+  border-radius: 10px;
+  border: 1px solid rgba(170, 170, 170, 1);
+}
+.query-btn {
+  width: 450px;
+  height: 60px;
+  background-color: rgba(229, 0, 25, 1);
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+  border-radius: 10px;
+  border: 1px solid rgba(170, 170, 170, 1);
+}

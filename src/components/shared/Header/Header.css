@@ -1,0 +1,17 @@
+.nav-link {
+  color: rgba(119, 119, 119, 1);
+  font-weight: 600;
+}
+.nav-link:hover {
+  color: rgba(229, 0, 25, 1);
+}
+.nav-img img {
+  margin-right: 5px;
+  border-radius: 2px;
+}
+
+@media (max-width: 768px) {
+  .nav-btn {
+    width: 25%;
+  }
+}
